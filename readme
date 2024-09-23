@@ -1,0 +1,16 @@
+# Escolha de Opção
+
+Este projeto é uma aplicação em Python que apresenta um menu de opções para o usuário. O programa captura a escolha do usuário e executa uma ação específica com base na seleção feita. As opções podem incluir exibir uma mensagem, mostrar a data/hora atual, listar itens, ou encerrar o programa.
+
+## Funcionalidades
+
+- Exibe um menu de opções.
+- Captura a escolha do usuário via input.
+- Executa ações diferentes de acordo com a opção escolhida.
+- Possibilita a saída do programa ou a volta ao menu principal.
+
+## Como usar
+
+1. Clone o repositório para sua máquina local:
+   
+   git clone https://github.com/seuusuario/escolha-de-opcao.git
