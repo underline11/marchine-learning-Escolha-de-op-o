@@ -1,0 +1,14 @@
+Escolha de Opção
+Neste projeto, o objetivo é criar um programa simples em Python que permita ao usuário escolher uma opção entre várias apresentadas. O programa exibirá um menu de opções e, com base na escolha do usuário, executará uma ação específica. Este projeto foca no uso de estruturas condicionais, loops e operações de entrada/saída.
+
+Funcionalidades:
+Exibir um menu de opções.
+Capturar a escolha do usuário.
+Executar uma ação com base na opção selecionada.
+Possibilidade de sair do programa ou voltar ao menu principal.
+Exemplo de opções no menu:
+
+Exibir uma mensagem de boas-vindas.
+Exibir a data e a hora atual.
+Exibir uma lista de itens.
+Sair do programa
